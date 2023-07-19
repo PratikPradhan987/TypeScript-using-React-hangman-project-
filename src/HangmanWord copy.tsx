@@ -1,7 +1,11 @@
+import './css/HangmanWord.css'
 
 const HangmanWord = () => {
   return (
-    <div>HangmanWord</div>
+    <div>
+    <div className="word">test</div>
+    
+    </div>
   )
 }
 
